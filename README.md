@@ -8,26 +8,26 @@
 <!-- <img align="right" alt="img" width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> -->
 <img align="right" alt="img" width="40%" src=images/Programming-amico.svg></img>
 
-- :school: Pursuing my Bachelor's in Computer Science and Engineering from **Bharati Vidyapeeth (DU) College of Engineering**
+- :school: Pursuing my Bachelor's in Computer Science and Engineering from **SRM University, College of Engineering**
 - :book: Learning **React**
 - 🌱 I’m on track for learning more about Web Development and Software Engineering.
-- You can shoot me an email at **utkarshcr73128@gmail.com**
+- You can shoot me an email at *pratikk.3186.gmail.com**
 <!-- - ✍️ In my free time, I pursue Reading and watching Anime as hobbies. -->
 
 
 ### 🤝Connect with me here
 <!-- <p align="center"> -->
 	
-  <a href="https://www.instagram.com/_.utkarsh10/">
+  <a href="">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-	<a href="https://www.linkedin.com/in/utkarshkumar3128/">
+	<a href="https://www.linkedin.com/in/pratik-kumar-50321a21b//">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/utkarshcr73128">
+	<a href="">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-  <a href="https://www.facebook.com/profile.php?id=100012449179011">
+  <a href="">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 <!--  </p> -->
