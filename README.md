@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
 
 <h3 align="center">
-Backend Developer • Generative AI Enthusiast • Future Researcher
+Backend Developer • Generative AI Enthusiast
 </h3>
 
 <p align="center">
