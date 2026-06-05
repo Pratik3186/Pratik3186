@@ -1,148 +1,194 @@
-<h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Developer • Generative AI Enthusiast
-</h3>
+```
+██████╗ ██████╗  █████╗ ████████╗██╗██╗  ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
+██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+██████╔╝██████╔╝███████║   ██║   ██║█████╔╝     █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║██╔═██╗     ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║     ██║  ██║██║  ██║   ██║   ██║██║  ██╗    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<p align="center">
-Building scalable backend systems, AI-powered applications, and real-world products with Python.
+<h1>Hey, I'm Pratik 👋</h1>
+<h3>AI/ML Engineer · LLM Builder · Full-Stack Developer</h3>
+
+<p>
+  <a href="mailto:pratikk.3186@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Pratik3186"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/pratikk3186"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Prratikkkkk/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Pratik3186&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🎓 B.Tech CSE Graduate from SRM Institute of Science and Technology
+```python
+class PratikKumar:
+    def __init__(self):
+        self.name        = "Pratik Kumar"
+        self.location    = "India 🇮🇳"
+        self.education   = "B.Tech CSE @ SRM Institute of Science & Technology, Chennai | CGPA: 8.05"
+        self.role        = "Aspiring AI/ML Engineer & Full-Stack Developer"
+        self.focus       = ["Generative AI", "RAG Pipelines", "LLM Applications", "Full-Stack Web"]
+        self.research    = "Published @ ICOTE 2024 — ML for Chronic Kidney Disease Detection"
+        self.phone       = "+91 7870650680"
 
-💻 Backend Developer focused on Python, Django, FastAPI, PostgreSQL
+    def currently(self):
+        return {
+            "building"  : "LLM-powered apps & production-grade RAG systems",
+            "learning"  : "LangGraph · Agentic RAG · Advanced LangChain · System Design",
+            "seeking"   : "AI/ML Engineer or Full-Stack Developer roles (Fresher)",
+            "fun_fact"  : "I turn research papers into working ML pipelines 🔬⚙️"
+        }
 
-🤖 Passionate about Generative AI, LLMs, RAG Pipelines, and LangChain
+me = PratikKumar()
+print(me.currently())
+```
 
-📚 Published Researcher in Machine Learning
+---
 
-🌱 Currently Learning:
-- Advanced System Design
-- Machine Learning
-- Kafka & Redis
-- Distributed Systems
+## 🚀 Featured Projects
 
-🎯 Goal:
-Build production-grade AI products and contribute to impactful research.
+### 🤖 AI Medical Assistant — RAG-Powered
+> *Python · FastAPI · LangChain · Pinecone · HuggingFace · Groq Llama 3 · Streamlit*
+
+A production-grade **Retrieval-Augmented Generation (RAG)** system built for medical question answering.
+- 🔍 Vector search pipeline using **Pinecone** + **HuggingFace embeddings**
+- 📄 PDF ingestion with **semantic chunking** and contextual retrieval
+- ⚡ **Groq Llama 3** as the inference backbone — sub-second responses
+- 🖥️ Clean **Streamlit** frontend with source citation on every answer
+
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Pratik3186)
+
+---
+
+### 📝 AI Blog Article Generator
+> *Django · PostgreSQL · OpenAI API · AssemblyAI · Tailwind CSS*
+
+An end-to-end **Generative AI web app** that converts YouTube videos into SEO-optimized blog articles.
+- 🎙️ **Speech-to-Text** via AssemblyAI → **NLP pipeline** → polished blog post
+- ⏱️ Reduced content generation time by **60%**
+- 🔐 JWT authentication, REST API integration, and PostgreSQL persistence
+- 🎨 Responsive UI with **Tailwind CSS**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Pratik3186)
+
+---
+
+### 🛒 Full-Stack E-Commerce Platform
+> *React.js · Django REST Framework · PostgreSQL · Tailwind CSS · JWT*
+
+A scalable, production-ready e-commerce application with full auth and catalog management.
+- 🛡️ **JWT-based authentication** + protected routes
+- 🛍️ RESTful APIs for product catalog, cart, checkout, and order management
+- ⚛️ **React Context API** for global state management
+- 🗄️ **PostgreSQL** for robust data persistence
+
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Pratik3186)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🤖 AI / ML / GenAI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+### 🌐 Backend & Full-Stack
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### AI & GenAI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Powered-blue?style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+### 🗄️ Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🔥 Featured Projects
+## 📊 GitHub Stats
 
-### 📝 AI Blog Article Generator
-Generate SEO-optimized blog articles directly from YouTube videos.
+<div align="center">
 
-✅ OpenAI API Integration  
-✅ AssemblyAI Speech-to-Text  
-✅ Django Backend  
-✅ PostgreSQL Database  
-✅ JWT Authentication
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratik3186&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik3186&layout=compact&langs_count=8&theme=tokyonight"/>
 
----
+</div>
 
-### 🏥 AI Medical Assistant
-LLM-powered medical assistant using Retrieval-Augmented Generation (RAG).
+<div align="center">
 
-✅ FastAPI Backend  
-✅ LangChain Framework  
-✅ Pinecone Vector Database  
-✅ HuggingFace Embeddings  
-✅ Groq Llama 3
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pratik3186&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### 🛒 Full Stack E-Commerce Platform
-Production-ready E-Commerce platform.
+## 📜 Research Publication
 
-✅ React Frontend  
-✅ Django REST Framework  
-✅ JWT Authentication  
-✅ PostgreSQL Database  
-✅ Responsive UI
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td>📄</td>
+    <td><strong>Chronic Kidney Disease Diagnosis Using Machine Learning</strong></td>
+  </tr>
+  <tr>
+    <td>🏛️</td>
+    <td>3rd International Conference on Optimization Techniques in Engineering (ICOTE 2024)</td>
+  </tr>
+  <tr>
+    <td>🔬</td>
+    <td>ML classification model for early-stage CKD detection using clinical datasets, statistical feature selection & predictive modeling</td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+## 💼 Experience
 
-📄 Published Research Paper:
-**Chronic Kidney Disease Diagnosis Using Machine Learning**
-
-🎓 CGPA: **8.05**
-
-💡 Built Multiple End-to-End AI & Full Stack Applications
+**Python & SQL Training Program** — *Wipro* · Jan 2026 – Mar 2026
+> Intensive industry training covering Python fundamentals, data structures, scripting, and SQL for relational database design, querying, and data manipulation.
 
 ---
 
-## 📫 Connect With Me
+## 🎯 What I'm Looking For
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
-</a>
-</p>
+```
+┌─────────────────────────────────────────────────────────┐
+│                   OPEN TO OPPORTUNITIES                 │
+│                                                         │
+│  🤖  AI / ML Engineer                                   │
+│  🔗  LLM / GenAI Application Developer                  │
+│  🌐  Full-Stack Developer (Python / React)              │
+│  📍  India (Remote / Hybrid / On-site)                  │
+│                                                         │
+│  📬  pratikk.3186@gmail.com  |  +91 7870650680         │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
-⭐ "Code. Learn. Build. Repeat."
+## 📈 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Prratikkkkk?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/Prratikkkkk/)
+
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something intelligent together!
+
+*"The best way to predict the future is to build it."*
+
+⭐ **Star my repos if you find them useful!** ⭐
+
+</div>
